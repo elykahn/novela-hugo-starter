@@ -5,7 +5,7 @@ authors:
 title: What is ely.io?
 excerpt: ''
 date: 2021-04-11T00:00:00-05:00
-hero: ''
+hero: "/./4d1fcde5-3e94-4ffc-af1c-d7be6841e07b.jpeg"
 draft: true
 
 ---
